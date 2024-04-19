@@ -5,7 +5,7 @@ public class ExerciseThree {
 
 	public static void main(String[] args) {
 		
-		
+		//
 		Scanner scan = new Scanner(System.in);
 		
 		int [] arr = {1, 5, 6, 8, 2, 9};
