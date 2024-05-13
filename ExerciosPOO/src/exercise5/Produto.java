@@ -1,5 +1,5 @@
 package exercise5;
- 
+//
 public class Produto {
 	
 	private String nome;
