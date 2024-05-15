@@ -1,5 +1,5 @@
 /*Crie um sistema para uma biblioteca que permita o cadastro de livros e o registro de empréstimos. 
-Cada livro deve ter atributos como título, autor, ano de publicação e disponibilidade. 
+Cada livro deve ter atributos como título, autor, ano de publicação e disponibilidade.
 Implemente métodos para emprestar e devolver livros, além de exibir informações sobre os livros cadastrados.*/
 
 package exercise.biblioteca;
